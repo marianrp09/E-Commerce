@@ -59,3 +59,5 @@ C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Models\obj\Debug\E-Commer.D01C52FD.Up2Date
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Models\obj\Debug\E-Commerce_Models.dll
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Models\obj\Debug\E-Commerce_Models.pdb
+C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_new\E-Commerce_Models\obj\Debug\E-Commerce_Models.dll
+C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_new\E-Commerce_Models\obj\Debug\E-Commerce_Models.pdb

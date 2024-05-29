@@ -128,3 +128,5 @@ C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Negocio\obj\Debug\E-Commer.549FA9E5.Up2Date
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Negocio\obj\Debug\E-Commerce_Negocio.dll
 C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_Negocio\obj\Debug\E-Commerce_Negocio.pdb
+C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_new\E-Commerce_Negocio\obj\Debug\E-Commerce_Negocio.dll
+C:\Mariano\Otros\UTN\Tecnicatura programacion\Año 3\Viernes - Programacion III\TPC\E-Commerce_new\E-Commerce_Negocio\obj\Debug\E-Commerce_Negocio.pdb
